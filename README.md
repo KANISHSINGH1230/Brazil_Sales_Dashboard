@@ -1,3 +1,4 @@
+
 <p align = "center">
   <image src = "https://github.com/KANISHSINGH1230/Brazil_Sales_Dashboard/blob/main/Geographic_Distribution.jpeg" widh = "100%" alt = "Sales Dashboard">
   </p>
