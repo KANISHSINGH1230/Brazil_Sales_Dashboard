@@ -1,3 +1,6 @@
+https://github.com/KANISHSINGH1230/Brazil_Sales_Dashboard/blob/main/Geographic_Distribution.jpeg
+
+
 # 📊 Sales Performance Dashboard | Power BI
 
 ## 📌 Project Overview
